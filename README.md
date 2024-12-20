@@ -11,3 +11,9 @@ My data consists of several huge tables consisting of data about marijuana genom
 * 'cs3k_project_info',
 * 'cs3k_vcf_cs10_dv090',
 * 'sample_info_201703'
+
+# Notebooks
+
+My notebook ```notebooks/data_input.ipynb``` consists of an EDA of this dataset.
+
+My notebook ```notebooks/regression.ipynb``` consists of regression on ```MNPR01_201703```. 
