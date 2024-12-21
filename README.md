@@ -16,4 +16,6 @@ My data consists of several huge tables consisting of data about marijuana genom
 
 My notebook ```notebooks/data_input.ipynb``` consists of an EDA of this dataset.
 
-My notebook ```notebooks/regression.ipynb``` consists of regression on ```MNPR01_201703```. 
+My notebook ```notebooks/regression.ipynb``` consists of regression on ```MNPR01_201703```. Regression yielded me a test score of 17.6%, which is unsatisfactory. The conclusion I may achieve based on this is that I shall need to try something else. 
+
+My notebook ```notebooks/cnn.ipynb``` consists of me building a neural network for this mode.
