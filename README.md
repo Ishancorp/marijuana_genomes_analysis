@@ -18,7 +18,7 @@ My notebook ```notebooks/data_input.ipynb``` consists of an EDA of this dataset.
 
 My notebook ```notebooks/regression.ipynb``` consists of regression on ```MNPR01_201703```. 
 
-My notebook ```notebooks/neural net.ipynb``` consists of me building a neural network for this mode.
+My notebook ```notebooks/neural_net.ipynb``` consists of me building a neural network for this mode.
 
 # Analysis
 
