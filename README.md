@@ -24,9 +24,9 @@ My notebook ```notebooks/neural_net.ipynb``` consists of me building a neural ne
 
 I shall seek to investigate the relationship between marijuana genomes and proteins. It would make more sense to predict proteins based on genomes
 
-Regression yielded me a test score of 17.9%, which is unsatisfactory. The conclusion I may achieve based on this is that I shall need to try something else. 
+Regression yielded me a test score of 16.8%, which is unsatisfactory. The conclusion I may achieve based on this is that I shall need to try something else. 
 
-Running a CNN model for this dataset yields an error of 0.76, which is pretty good. 
+Running a CNN model for this dataset yields an error of 1.29, which is pretty good. 
 
 # Findings
 
